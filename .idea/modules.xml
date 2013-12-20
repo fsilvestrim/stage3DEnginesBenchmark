@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../away3d-core-fp11/away3d-core-fp11.iml" filepath="$PROJECT_DIR$/../away3d-core-fp11/away3d-core-fp11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../minko/minko.iml" filepath="$PROJECT_DIR$/../minko/minko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage3DEnginesBenchmark.iml" filepath="$PROJECT_DIR$/stage3DEnginesBenchmark.iml" />
+    </modules>
+  </component>
+</project>
+

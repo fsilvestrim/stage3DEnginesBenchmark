@@ -21,17 +21,7 @@ package
 	{
 		private var timer : Timer = new Timer(0);
 		private var frame:int = 0;
-		
-		/**
-		 * Missing: ENV map
-		 * Benchmarks:
-		 * - drawcalls
-		 * - Memory
-         * - With debugger
-		 * - Release Version
-		 * - SOFTWARE Mode
-		 * - diff computers
-		 */		
+
 		public function Benchmark() {
 			if (stage)	initialize();
 			else		stage.addEventListener(Event.ADDED_TO_STAGE, initialize);
